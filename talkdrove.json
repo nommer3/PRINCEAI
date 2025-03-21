@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~scl/fi/ekrd3nzv4uw1iovv8v9ck/k18QJzY8nL.json?rlkey=dabdf5dtehkt67qbry1nzo3df&dl=0"
     },
     "BOT_NAME": {
       "description": "put your BOT a name",
@@ -20,22 +20,22 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "24107164732,✘🎭| 𝚕𝚘𝚛𝚍 𝚊𝚗𝚘𝚜 |🎭✘ The Developer"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
       "required": false,
-      "value": "🤍"
+      "value": "✌️"
     },
     "MODE": {
       "description": "choose bot mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "PREFIX": {
       "description": "put any one symbol here leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "" 
+      "value": "✓" 
     },
     "antidelete": {
       "description": "Set 'private' to forward deleted messages only from private chats, 'all' to forward from both private and group chats, or 'false' to disable this feature.",
@@ -95,7 +95,7 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Prince♥️"
+      "value": "✘🎭| 𝚕𝚘𝚛𝚍 𝚊𝚗𝚘𝚜 |🎭✘"
     },
     "DL_MSG": {
       "description": "Video downloader caption",
